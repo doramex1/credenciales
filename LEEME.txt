@@ -1,0 +1,4 @@
+DORAMEX | Credenciales digitales
+Publicación: repositorio doramex1/credenciales, GitHub Pages, rama main, carpeta / (root).
+Subir únicamente los archivos de este ZIP. No subir el PDF de impresión, los QR, el Excel ni las direcciones completas de las credenciales.
+Las fichas se almacenan cifradas con AES-GCM; la clave individual está en el fragmento del QR (después de #). La consulta requiere HTTPS y JavaScript, sin cuenta ni contraseña. Conservar el QR completo; quien lo copie podrá abrir la ficha. No es un sistema de autenticación ni sustituye medidas organizativas de protección de datos.
